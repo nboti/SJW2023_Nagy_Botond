@@ -33,3 +33,23 @@ p{
 #main{
     background-color: rgb(255, 255, 255, 0.6);
 }
+#yellow{
+    background-color: #ffeccb;
+    border: 5px double #5d6a09;
+    padding-top: 15px;
+}
+figcaption{
+    text-align: center;
+    font-style: italic;
+}
+li{
+    list-style-image: url('/img/pizza_icon.png');
+}
+span{
+    text-transform: uppercase;
+    color: #414a04;
+    font-weight: bold;
+}
+#footer{
+    background-color: #81150b;
+}
