@@ -1,0 +1,9 @@
+body{
+    background-image: url('/img/bg_pizza.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.navbar{
+    background-color: #81150b;
+}
